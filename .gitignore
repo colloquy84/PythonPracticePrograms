@@ -1,0 +1,11 @@
+/venv/
+/.idea/
+/PluralSight/AdvancedPython/02-byte-oriented-programming/after/binread/.idea/
+/PluralSight/AdvancedPython/02-byte-oriented-programming/reader/.idea/
+/PluralSight/AdvancedPython/03-object-internals-and-custom-attributes/resistor/.idea/
+/PluralSight/AdvancedPython/03-object-internals-and-custom-attributes/vector/.idea/
+/PluralSight/AdvancedPython/04-descriptors/datadescriptor/.idea/
+/PluralSight/AdvancedPython/04-descriptors/planets/.idea/
+/PluralSight/Python-BeyondTheBasics/05/demos/examples/properties-and-class-methods/.idea/
+/PluralSight/Python-BeyondTheBasics/10/demos/implementing-collections/.idea/
+/PluralSight/Python-BeyondTheBasics/11/demos/demos/exceptions/.idea/
