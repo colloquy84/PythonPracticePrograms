@@ -79,7 +79,8 @@ def starting_board():
 
 
 def main():
-    boards = [starting_board() for _ in range(10000)]
+    boards = [starting_board() for _ in range(10)]
+    print(boards[0])
     pass
 
 
